@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name: S.Mohanraj <br>
-### Register Number: 212221230065<br>
+### Name:MOHAMED ASEEM Pj <br>
+### Register Number: 212221230063<br>
 
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
