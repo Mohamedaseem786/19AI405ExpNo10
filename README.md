@@ -1,5 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name:MOHAMED ASEEM Pj <br>
+### Name:MOHAMED ASEEM P<br>
 ### Register Number: 212221230063<br>
 
 # AIM:
